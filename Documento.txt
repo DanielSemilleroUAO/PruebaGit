@@ -6,8 +6,12 @@ Estoy en hotfix
 >>>>>>> bb203e817b39bf7a20be962a003293dde414a82b
 Estoy en master, soy la version v1.0.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Commit antes de hacer fusionar con feature1
 =======
 feature1, primer cambio
 feature1, segundo cambio
 >>>>>>> 108edd102d65a34f9aa5a6f57812dc241b05feda
+=======
+Estoy en feature 2
+>>>>>>> f4e9fff635346283981e4bcd5359287077ad2a77
