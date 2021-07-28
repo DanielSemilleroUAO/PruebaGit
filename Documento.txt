@@ -1,2 +1,7 @@
 Estoy en master, soy la version v1.0.1
+<<<<<<< HEAD
 De nuevo en master
+=======
+Estoy en hotfix
+>>>>>>> bb203e817b39bf7a20be962a003293dde414a82b
+Estoy en master, soy la version v1.0.1
